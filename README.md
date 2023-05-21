@@ -1,32 +1,37 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I used the Rust programming language to create a network speed test program for this assignment. The goal of this software was to show that I understood the syntax of Rust and to advance my education as a software developer.
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
+Through the establishment of a TCP connection with a server and the simulation of a download, the software enables users to gauge the download speed of their network. Based on the volume of data downloaded and the amount of time that has passed, it determines the download speed in megabits per second (Mbps).
 
-{Describe your purpose for writing this software.}
+On my YouTube channel, you can see a 4-5 minute tutorial of the code and a demonstration of the software in action. The video gives an overview of the software's functionality, emphasizes key sections of the code, and presents my thoughts on the Rust programming language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1157612/uiconf_id/42438192/entry_id/1_307hed4u/embed/dynamic)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+During the development of this software, I used the following tools:
 
-{Describe the programming language that you used and any libraries.}
+Operating System: Windows 10
+Integrated Development Environment (IDE): Visual Studio Code
+Rust programming language: Version 1.69.0
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Rust Learning Documentation](https://www.rust-lang.org/learn)
+- [The Rust Programming Language - by Steve Klabnik and Carol Nichols, with contributions from the Rust Community](https://doc.rust-lang.org/book/)
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Although the software is functional, there are several areas where improvements and additions could be made:
 
-- Item 1
-- Item 2
-- Item 3
+- Implement additional features, such as the ability to measure upload speed and latency.
+- Add error handling and graceful error messages for various scenarios.
+- Enhance the user interface with better input validation and interactive prompts.
+- Improve code organization and modularity for better maintainability.
+- Optimize the network speed test algorithm for more accurate results.
+- Expand the software to support multiple server connections for comparative speed testing.
+- By addressing these points, the software can be enhanced to provide a more comprehensive network speed testing experience.
