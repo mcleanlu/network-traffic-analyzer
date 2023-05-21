@@ -1,0 +1,12 @@
+C:\Users\lucas\OneDrive\Documents\BYUI\CSE310\Network-Traffic_Analyzer\network-traffic-analyzer\traffic\target\debug\deps\dns_lookup-37caa22243099118.rmeta: C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\lib.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\addrinfo.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\nameinfo.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\err.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\lookup.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\types.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\hostname.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\win.rs
+
+C:\Users\lucas\OneDrive\Documents\BYUI\CSE310\Network-Traffic_Analyzer\network-traffic-analyzer\traffic\target\debug\deps\dns_lookup-37caa22243099118.d: C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\lib.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\addrinfo.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\nameinfo.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\err.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\lookup.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\types.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\hostname.rs C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\win.rs
+
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\lib.rs:
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\addrinfo.rs:
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\nameinfo.rs:
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\err.rs:
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\lookup.rs:
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\types.rs:
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\hostname.rs:
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\dns-lookup-1.0.8\src\win.rs:

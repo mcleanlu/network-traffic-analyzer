@@ -1,0 +1,5 @@
+C:\Users\lucas\OneDrive\Documents\BYUI\CSE310\Network-Traffic_Analyzer\network-traffic-analyzer\traffic\target\debug\build\libnghttp2-sys-f30e59768c59300a\build_script_build-f30e59768c59300a.exe: C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\libnghttp2-sys-0.1.7+1.45.0\build.rs
+
+C:\Users\lucas\OneDrive\Documents\BYUI\CSE310\Network-Traffic_Analyzer\network-traffic-analyzer\traffic\target\debug\build\libnghttp2-sys-f30e59768c59300a\build_script_build-f30e59768c59300a.d: C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\libnghttp2-sys-0.1.7+1.45.0\build.rs
+
+C:\Users\lucas\.cargo\registry\src\github.com-1ecc6299db9ec823\libnghttp2-sys-0.1.7+1.45.0\build.rs:
